@@ -7,10 +7,10 @@
 
 ## Dokumentasi
 ### Dokumentasi Modul 1: Melakukan implementasi ImageView pada aplikasi Android
-* ![Screenshot Modul 1.1](https://github.com/Kxrumii/Droid_Cafe_Fahrii/assets/modul 1.1.png)
-* ![Screenshot Modul 1.2](https://github.com/Kxrumii/Droid_Cafe_Fahrii/assets/modul 1.2.png)
+* ![Screenshot Modul 1.1](assets/modul_1.1.png)
+* ![Screenshot Modul 1.2](assets/modul_1.2.png)
 ### Dokumentasi Modul 2: Menambahkan inputan teks pada aplikasi
-* ![Screenshot Modul 2](https://github.com/Kxrumii/Droid_Cafe_Fahrii/assets/modul 2.png)
+* ![Screenshot Modul 2](assets/modul_2.png)
 ### Dokumentasi Tugas: Menambah Notes dan City
-* ![Screenshot Tugas 1.1](https://github.com/Kxrumii/Droid_Cafe_Fahrii/assets/tugas 1.1.png)
-* ![Screenshot Tugas 1.2](https://github.com/Kxrumii/Droid_Cafe_Fahrii/assets/tugas 1.2.png)
+* ![Screenshot Tugas 1.1](assets/tugas_1.1.png)
+* ![Screenshot Tugas 1.2](assets/tugas_1.2.png)
